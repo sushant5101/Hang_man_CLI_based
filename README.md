@@ -1,12 +1,9 @@
 # Hang_man
 
-==> Hang_man_v1.0:
-              I am trying to make a hang man game using c language. I have make a first version of the game it was working fine and i was configuring the easy function and i messed up somewhere so it has got broken somehow so i did not want  to  start in a  same file again so i am making a repo and publishing the progress of my journey. I decided to work from scratch and create the second version of the game that hope fully can be completed without any intruption.
-              
-==> Hang_man_v1.1:
-              I am in the way of making the 2nd version of the game hang man curently same in the point of the 1st game version working on the easy function. Trying to handell the entred input checking and more hoping i may not stuck in the same function twice it will be fine if i got stuck on another problem lets see. I will make commits in the way if i delete some code it may be help full to recover.
+Hang_man_v1.0: I am trying to make a Hangman game using C language. I created the first version of the game, and it was working fine. However, while configuring the "easy" function, I messed up somewhere, and the game broke. I decided not to work on the same file again. Instead, I am creating a repository to document the progress of my journey. I have decided to start from scratch and create the second version of the game, which I hope can be completed without interruptions.
 
-==> Hang_man_v1.2:
-                 I made progress in this uplode I finall completed the logic for the easy level on "Hang_man_1" there were "157" line of code but that line got reduced in this uplode bu "-84" lines that is becaucse i have removed the duplicate checking logic it may get added after the complition of all the function. The duplicate checking might only be necessary when replacing the "_" with the corresponding letter, and I still have to implement the hang man logic. Now one function is completed I will move on to another it will be fast in my thought. I am thinkinh i only have to change some of the checking logic for other level. 
-==> Hang_man_v1.3:
-                  fixed some error in the easy level function, there were some error giving code block that i have missed. There may be more of them if I will notice them then they will be fixed.
+Hang_man_v1.1: I am currently working on the second version of the Hangman game. At this point, it is in the same stage as the first version, as I am working on the "easy" function. I am trying to handle the entered input, checking logic, and more. I hope I don’t get stuck in the same function twice. If I do face issues, I’d prefer they are different ones. Let’s see how it goes! I will make commits along the way, even if I delete some code, as it might help in recovering any useful portions later.
+
+Hang_man_v1.2: In this update, I made progress! I finally completed the logic for the "easy" level. In "Hang_man_v1.0," the code had 157 lines, but I managed to reduce it by 84 lines in this version. This was because I removed the duplicate-checking logic. I may add it back after completing all the functions. The duplicate-checking logic might only be necessary when replacing the "_" with the corresponding letter. I still need to implement the actual Hangman logic. With one function completed, I will now move on to the next one. I think this will be faster since I only need to tweak some of the checking logic for other levels.
+
+Hang_man_v1.3: I fixed some errors in the "easy" level function. There were some problematic code blocks that I had missed earlier. There might still be more issues, and if I notice them, I will fix them as soon as possible.
