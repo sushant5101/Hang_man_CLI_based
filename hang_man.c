@@ -20,6 +20,7 @@ int iEntry_count = 0; // creating a global variable for counting the times of en
 
 int main()
 {
+    printf("hello world");
     // srand(time(0));
     int iLevel_difficulty = 1;
 
