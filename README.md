@@ -1,6 +1,6 @@
 # Hang_man
 
-Hang_man_v1.0: I am trying to make a Hangman game using C language. I created the first version of the game, and it was working fine. However, while configuring the "easy" function, I messed up somewhere, and the game broke. I decided not to work on the same file again. Instead, I am creating a repository to document the progress of my journey. I have decided to start from scratch and create the second version of the game, which I hope can be completed without interruptions.
+Hang_man_v1.0: I am trying to make a Hangman game using C language. I created the first version of the game (the failed first version of the game is also uploaded named : han_gman.c), and it was working fine. However, while configuring the "easy" function, I messed up somewhere, and the game broke. I decided not to work on the same file again. Instead, I am creating a repository to document the progress of my journey. I have decided to start from scratch and create the second version of the game, which I hope can be completed without interruptions.
 
 Hang_man_v1.1: I am currently working on the second version of the Hangman game. At this point, it is in the same stage as the first version, as I am working on the "easy" function. I am trying to handle the entered input, checking logic, and more. I hope I don’t get stuck in the same function twice. If I do face issues, I’d prefer they are different ones. Let’s see how it goes! I will make commits along the way, even if I delete some code, as it might help in recovering any useful portions later.
 
